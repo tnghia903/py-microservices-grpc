@@ -1,0 +1,14 @@
+# Ignore all venv directories
+**/venv/
+
+# Other common Python ignores
+*.pyc
+__pycache__/
+
+# Ignore other types of virtual environments
+.env
+.venv
+env/
+ENV/
+env.bak/
+venv.bak/
